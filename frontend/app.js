@@ -1,4 +1,4 @@
-const BASE_URL = window.APP_BASE_URL || 'http://localhost:3000';
+const BASE_URL = window.APP_BASE_URL || 'desafio-3-atualiza-o-do-app-pet-production.up.railway.app';
 const API_URL = `${BASE_URL}/api/entries`;
 const PETS_API_URL = `${BASE_URL}/api/pets`;
 
